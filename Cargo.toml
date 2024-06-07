@@ -1,0 +1,8 @@
+[package]
+name = "mage_quiz_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+press-btn-continue = "0.2.0"
+rodio = "0.18.1"
